@@ -1,6 +1,6 @@
 # Hello Franked — Example Template
 
-A minimal example showing how to add Franked license validation to your app.  
+A minimal example showing how to add Franks licenses validations to your app.  
 **Pick your language, copy the config, run.**
 
 ---
